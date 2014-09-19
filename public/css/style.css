@@ -6,12 +6,15 @@ body{
 #wrapper{
 	margin-top:20px;
 }
-#messageList{
+#messageBox{
 	border:1px solid #cdcdcd;
 	margin-bottom: 10px;
 	height:500px;
 	overflow: auto;
+	border-radius: 3px;
+	padding-top:20px;
 }
+
 .media-body p{
 	
 }
